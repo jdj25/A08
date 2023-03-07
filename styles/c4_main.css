@@ -32,8 +32,11 @@ a:link{
 a:hover, a:focus {
 	font-style: italic;
 }
+.shadow{
+	color: #800000;
+	text-shadow: 1px 1px
+}
 footer p{
 	text-align: center;
 }
-
 /* the styles for the footer */
