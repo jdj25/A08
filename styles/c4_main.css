@@ -8,6 +8,10 @@ body {
 header img {
 	float: left;
 }
+.shadow {
+	text-shadow: 2px 2px 2px;
+	color: #800000
+}
 header h2{
 	font-size: 170%;
 	color: #800000;
